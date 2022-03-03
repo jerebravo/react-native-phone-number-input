@@ -53,7 +53,7 @@ export default class PhoneInput extends Component<
     | "AD"
     | "AO"
     | "AI"
-    | "AQ"
+    //| "AQ"
     | "AG"
     | "AR"
     | "AM"
